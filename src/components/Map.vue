@@ -17,8 +17,8 @@ export default {
             mapOptions: {
                 zoom: 16,
                 mapTypeId: google.maps.MapTypeId.ROADMAP,
-                // Chicago
-                center: new google.maps.LatLng(41.855, -87.65)
+                // Kobe
+                center: new google.maps.LatLng(34.6943, 135.1907)
             },
 
             paths: [],
